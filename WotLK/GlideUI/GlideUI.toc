@@ -1,0 +1,8 @@
+## Interface: 52237
+## Title: GlideUI
+## Notes: A WoW Classic Add-on to replicate Lost Ark's gliding loot UI.
+## Version: 3.4.3
+## Author: Serra
+## SavedVariables: GlideUISettingsSaved
+
+GlideUI.xml
