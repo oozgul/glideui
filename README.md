@@ -12,4 +12,4 @@ This is a lightweight add-on creates temporary frames to display looted items, m
 ![WoWScrnShot_122423_134329](https://github.com/oozgul/glideui/assets/3949085/e685ec18-a4d2-4bdb-9284-6664e50d5346)
 
 **Installation**
-Add the the GlideUI folder to ..\World of Warcraft\_classic_era_\Interface\AddOns.. 
+Add the relevant GlideUI folder to ..\World of Warcraft\<wowflavor>\Interface\AddOns.. 
