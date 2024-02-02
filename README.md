@@ -1,5 +1,5 @@
 # GlideUI
-A WoW Classic UI Add-on to replicate Lost Ark's gliding loot UI.
+A WoW UI Add-on to replicate Lost Ark's gliding loot UI.
 
 This is a lightweight add-on creates temporary frames to display looted items, money and gained XP. 
 
